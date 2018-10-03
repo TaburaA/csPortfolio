@@ -2,6 +2,7 @@
 * WebPage [here](https://taburaa.github.io/YummuInMyTummu/1test/tummu.html)
 * Lightning Java [here](https://taburaa.github.io/lightning2/)
 * Lightning JS [here]()
+* Dice[here](https://taburaa.github.io/dice3/)
 
 ```Java
 void mousePressed()
