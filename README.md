@@ -4,6 +4,7 @@
 * Lightning JS [here]()
 * Dice [here](https://taburaa.github.io/dice3/)
 * College Presentation [here](https://taburaa.github.io/CollegePresentation/yo.html)
+* Chemotaxis [here](https://taburaa.github.io/chemotaxis4/)
 
 ```Java
 void mousePressed()
