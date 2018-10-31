@@ -1,11 +1,11 @@
 # csPortfolio
-* WebPage [here](https://taburaa.github.io/YummuInMyTummu/1test/tummu.html)
-* Lightning Java [here](https://taburaa.github.io/lightning2/)
+* "Yummu in My Tummu"(WebPage) [here](https://taburaa.github.io/YummuInMyTummu/1test/tummu.html)
+* "Aesthetic Lightning" (Lightning Java) [here](https://taburaa.github.io/lightning2/)
 * Lightning JS [here]()
-* Dice [here](https://taburaa.github.io/dice3/)
-* College Presentation [here](https://taburaa.github.io/CollegePresentation/yo.html)
-* Chemotaxis [here](https://taburaa.github.io/chemotaxis4/AJsound/)
-
+* "DiceDiceBaby" (Dice)[here](https://taburaa.github.io/dice3/)
+* UT Austin Presentation [here](https://taburaa.github.io/CollegePresentation/yo.html)
+* "ChemoTravis"(ChemoTaxis) [here](https://taburaa.github.io/chemotaxis4/AJsound/)
+* "Thanks-Starfield-Giving"(StarField)[here](https://taburaa.github.io/starfield5/)
 ```Java
 void mousePressed()
 {
