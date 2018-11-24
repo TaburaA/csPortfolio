@@ -1,6 +1,9 @@
 # AJ Tabura's Amazing csPortfolio
-* "Yummu in My Tummu"(WebPage) [here](https://taburaa.github.io/YummuInMyTummu/1test/tummu.html)
-<summary>Want to ruin the surprise?</summary>
+
+<details open>
+<summary>Webpage</summary>
+ * "Yummu in My Tummu"(WebPage) [here](https://taburaa.github.io/YummuInMyTummu/1test/tummu.html)
+<details>
 * "Aesthetic Lightning" (Lightning Java) [here](https://taburaa.github.io/lightning2/)
 * "DiceDiceBaby" (Dice)[here](https://taburaa.github.io/dice3/)
 * UT Austin Presentation [here](https://taburaa.github.io/CollegePresentation/yo.html)
