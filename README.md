@@ -1,27 +1,29 @@
 # AJ Tabura's Amazing csPortfolio
 
-<details open>
+<details>
 <summary>Webpage</summary>
- 
  "Yummu in My Tummu"(WebPage) [here](https://taburaa.github.io/YummuInMyTummu/1test/tummu.html)
- 
 </details>
-<details open>
+<details>
  <summary>Lightning Lab!</summary>
- 
 "Aesthetic Lightning" (Lightning Java) [here](https://taburaa.github.io/lightning2/)
-
  </details>
- <details open>
+ <details>
  <summary>Dice Lab!</summary>
 "DiceDiceBaby" (Dice)[here](https://taburaa.github.io/dice3/)
  </details>
- <details open>
+ <details>
  <summary>UT Austin College Presentation!</summary>
 UT Austin Presentation [here](https://taburaa.github.io/CollegePresentation/yo.html)
  </details>
-* "ChemoTravis"(ChemoTaxis) [here](https://taburaa.github.io/chemotaxis4/AJsound/)
+ <details>
+ <summary>ChemoTaxis Lab!</summary>
+"ChemoTravis"(ChemoTaxis) [here](https://taburaa.github.io/chemotaxis4/AJsound/)
+ </details>
+ <details>
+ <summary>Starfield Lab!</summary>
 * "Thanks-Starfield-Giving"(StarField)[here](https://taburaa.github.io/starfield5/)
+ </details>
 ```Java
 void mousePressed()
 {
