@@ -7,8 +7,12 @@
   <a href="https://taburaa.github.io/YummuInMyTummu/1test/tummu.html">Yummu in my Tummu<br></a>
   
   <a href="https://github.com/TaburaA/YummuInMyTummu">Web page URL<br></a>
-
-
+<details>
+ <summary>Webpage Reflection</summary>
+ <p>
+suck
+</p>
+</details>
 </p>
 </details>
 <details>
