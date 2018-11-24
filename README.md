@@ -22,9 +22,15 @@ I thought the webpage project was really cool. I've never used HTML before so to
   <a href="https://taburaa.github.io/lightning2/">Aesthetic Lightning<br></a>
   
   <a href="https://github.com/TaburaA/lightning2">Repo URL<br></a>
-
+ <details>
+    <summary>Webpage Reflection</summary>
+ <p>
+This lab reviewed math.random(). We created lightning by randomizing a line's path and endpoint. I made it my own by not only randomizing the shape, but also the colour of the lightning and background. I also implemented an interactive element by having a mouse click reset the program.
+</p>
+    </details>
 
 </p>
+
  </details>
  <details>
  <summary>Dice Lab!</summary>
