@@ -10,7 +10,7 @@
     <details>
     <summary>Webpage Reflection</summary>
  <p>
-     suck
+I thought the webpage project was really cool. I've never used HTML before so to be able to use it and play around made it really cool. This lab had us use kate and HTML to create a webpage for something we liked. I used it to advertise Cornflakes and my friend Ben's band. I was able to make the images distort and redirect to other webpages. Really cool project.
 </p>
     </details>
 </p>
