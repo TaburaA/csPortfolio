@@ -2,11 +2,11 @@
 
 <details>
 <summary>Webpage</summary>
-* "Yummu in My Tummu"(WebPage) [here](https://taburaa.github.io/YummuInMyTummu/1test/tummu.html)
+* "Yummu in My Tummu"(WebPage)[here](https://taburaa.github.io/YummuInMyTummu/1test/tummu.html)
 </details>
 <details>
  <summary>Lightning Lab!</summary>
-"Aesthetic Lightning" (Lightning Java) [here](https://taburaa.github.io/lightning2/)
+"Aesthetic Lightning" (Lightning Java)[here](https://taburaa.github.io/lightning2/)
  </details>
  <details>
  <summary>Dice Lab!</summary>
