@@ -4,34 +4,64 @@
 <summary>Webpage</summary>
  <p>
   
-  <a href="https://taburaa.github.io/YummuInMyTummu/1test/tummu.html">Web page<br></a>
+  <a href="https://taburaa.github.io/YummuInMyTummu/1test/tummu.html">Yummu in my Tummu<br></a>
   
   <a href="https://github.com/TaburaA/YummuInMyTummu">Web page URL<br></a>
 
 
 </p>
-
-* "Yummu in My Tummu"(WebPage)[here](https://taburaa.github.io/YummuInMyTummu/1test/tummu.html)
 </details>
 <details>
  <summary>Lightning Lab!</summary>
-"Aesthetic Lightning" (Lightning Java)[here](https://taburaa.github.io/lightning2/)
+  <p>
+  
+  <a href="https://taburaa.github.io/lightning2/">Aesthetic Lightning<br></a>
+  
+  <a href="https://github.com/TaburaA/lightning2">Repo URL<br></a>
+
+
+</p>
  </details>
  <details>
  <summary>Dice Lab!</summary>
-"DiceDiceBaby" (Dice)[here](https://taburaa.github.io/dice3/)
+  <p>
+  
+  <a href="https://taburaa.github.io/dice3/">DiceDiceBaby<br></a>
+  
+  <a href="https://github.com/TaburaA/dice3">Repo URL<br></a>
+
+
+</p>
  </details>
  <details>
  <summary>UT Austin College Presentation!</summary>
-UT Austin Presentation [here](https://taburaa.github.io/CollegePresentation/yo.html)
+   <p>
+  
+  <a href="https://taburaa.github.io/CollegePresentation/yo.html">UT Austin Presentation<br></a>
+ 
+</p>
  </details>
  <details>
  <summary>ChemoTaxis Lab!</summary>
-"ChemoTravis"(ChemoTaxis) [here](https://taburaa.github.io/chemotaxis4/AJsound/)
+   <p>
+  
+  <a href="https://taburaa.github.io/chemotaxis4/AJsound/">ChemoTravis<br></a>
+  
+  <a href="https://github.com/TaburaA/chemotaxis4">Repo URL<br></a>
+
+
+</p>
  </details>
  <details>
  <summary>Starfield Lab!</summary>
-* "Thanks-Starfield-Giving"(StarField)[here](https://taburaa.github.io/starfield5/)
+    <p>
+  
+  <a href="https://taburaa.github.io/starfield5/">ChemoTravis<br></a>
+  
+  <a href="https://github.com/TaburaA/starfield5">Repo URL<br></a>
+
+
+</p>
  </details>
 ```Java
 void mousePressed()
