@@ -2,6 +2,15 @@
 
 <details>
 <summary>Webpage</summary>
+ <p>
+  
+  <a href="https://taburaa.github.io/YummuInMyTummu/1test/tummu.html">Web page<br></a>
+  
+  <a href="https://github.com/TaburaA/YummuInMyTummu">Web page URL<br></a>
+
+
+</p>
+
 * "Yummu in My Tummu"(WebPage)[here](https://taburaa.github.io/YummuInMyTummu/1test/tummu.html)
 </details>
 <details>
