@@ -142,7 +142,7 @@ For this lab we were to focus on inheritance and interfaces. My lab used trigino
  4. The most difficult piece of code would be the use of javascript to combine images, sound, and keyPressed() to make an interactive project!
  
  5. Here's the code:
- 
+ ```
  function preload() {
 	one = loadSound("data/straightup.wav");
 	two = loadSound("data/skrt.wav");
@@ -174,6 +174,6 @@ if (key == '1') {
 				this.y += sin(oliver) * 1;
 			}
 		}
-```
+
  </p>
  </details>
