@@ -144,8 +144,6 @@ For this lab we were to focus on inheritance and interfaces. My lab used trigino
  5. Here's the code:
  
  java```
- 
- 
  function preload() {
 	one = loadSound("data/straightup.wav");
 	two = loadSound("data/skrt.wav");
