@@ -109,27 +109,37 @@ For this lab we were to focus on inheritance and interfaces. My lab used trigino
   
  1. Individual Lab Reflections are under their respective dropdown menus.
  
+ 
   2. The thing I'm most proud of in my CS development is my ability to make my code my own. Throughout the labs and projects, we had checklists to fill, and deadlines to meet, yet I always went above and beyond to implement things that made it unique to me. Whether it would be to use PImages, sound bytes, or increased interactiveibility, I always enriched my education by going further than the call of duty. 
   
- 3. Here's an examle as a code snippet: 
+  
+ 3. Here's an examle as a code snippet:
+ 
  
    ```Java
-   
   text("Get 350 or more to win!",20,450);
+  
   
  text("Total:", 20,550);
  
+ 
   text(total,120,550); 
+  
   
    if(total>350){
    
+   
     textSize(32);
+    
     
     fill(255);
     
+    
     text("YOU WIN!",200,550);
     
+    
     image(img,210,150);
+    
     
    }
    
