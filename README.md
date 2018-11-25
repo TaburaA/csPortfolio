@@ -144,12 +144,15 @@ For this lab we were to focus on inheritance and interfaces. My lab used trigino
  5. Here's the code:
  
  java```
+ 
+ 
  function preload() {
 	one = loadSound("data/straightup.wav");
 	two = loadSound("data/skrt.wav");
 	three = loadSound("data/itslit.mp3");
 	img = loadImage("data/scott.png");
 }
+
 
 if (key == '1') {
 		sike = 1;
@@ -158,6 +161,7 @@ if (key == '1') {
 			one.play();
 			adlib = 1;
 		}
+  
   
   	move(sike) {
 		//var oliver = atan((mouseY - y) / (mouseX - x));
