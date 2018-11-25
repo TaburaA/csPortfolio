@@ -150,7 +150,7 @@ For this lab we were to focus on inheritance and interfaces. My lab used trigino
 	img = loadImage("data/scott.png");
 }
 ```
-
+```
 if (key == '1') {
 		sike = 1;
 		adlib = 0;
@@ -174,6 +174,6 @@ if (key == '1') {
 				this.y += sin(oliver) * 1;
 			}
 		}
-
+```
  </p>
  </details>
