@@ -114,7 +114,7 @@ For this lab we were to focus on inheritance and interfaces. My lab used trigino
   
   
  3. Here's an examle as a code snippet:
- 
+ </p>
  
    ```Java
   text("Get 350 or more to win!",20,450);
@@ -146,12 +146,12 @@ For this lab we were to focus on inheritance and interfaces. My lab used trigino
   total=0;
   
  ```
- 
+ <p>
  While this is an early example, I still made it my own. Instead of just having a You Win message, I learnt how to use Images in processing and put in an image of Dr. R. 
  
  4. The most difficult piece of code would be the use of javascript to combine images, sound, and keyPressed() to make an interactive project!
  
- 5. Here's the code:
+ 5. Here's the code:</p>
 ```java
  function preload() {
 	one = loadSound("data/straightup.wav");
@@ -186,6 +186,7 @@ if (key == '1') {
 		}
 
 ```
+<p>
 6. This code was challenging because I wanted to use the sound library of processing, but I coudln't because it wasn't available on github. I also wanted the objects I created to go straight to the mouse, but it the object would always go in zig zag fashion. In order to fix this, the code was converted to java script. It used function preload() along with loadsound() and loadimage() to load the files into the program. Then, I found out how to use keyPressed() to emit images and sound in an efficient way. To make the objects move in a straight line, I used trigonometry to create a line that went along either the cos or the sin of the angle. This would create a straight line from the orgin to the mouse. 
  </p>
  </details>
