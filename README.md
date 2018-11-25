@@ -139,6 +139,40 @@ For this lab we were to focus on inheritance and interfaces. My lab used trigino
  
  While this is an early example, I still made it my own. Instead of just having a You Win message, I learnt how to use Images in processing and put in an image of Dr. R. 
  
+ 4. The most difficult piece of code would be the use of javascript to combine images, sound, and keyPressed() to make an interactive project!
  
+ 5. Here's the code:
+ 
+ java```
+ function preload() {
+	one = loadSound("data/straightup.wav");
+	two = loadSound("data/skrt.wav");
+	three = loadSound("data/itslit.mp3");
+	img = loadImage("data/scott.png");
+}
+
+if (key == '1') {
+		sike = 1;
+		adlib = 0;
+		while (adlib < 1) {
+			one.play();
+			adlib = 1;
+		}
+  
+  	move(sike) {
+		//var oliver = atan((mouseY - y) / (mouseX - x));
+		var oliver = Math.PI * 2;
+		if (sike == 1) {
+			this.x += random(-5, 5);
+			this.y += random(-5, 5);
+			if (mouseX < this.x) {
+				this.x -= cos(oliver) * 1;
+				this.y -= sin(oliver) * 1;
+			} else {
+				this.x += cos(oliver) * 1;
+				this.y += sin(oliver) * 1;
+			}
+		}
+```
  </p>
  </details>
