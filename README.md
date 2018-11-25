@@ -175,5 +175,6 @@ if (key == '1') {
 			}
 		}
 
+6. This code was challenging because I wanted to use the sound library of processing, but I coudln't because it wasn't available on github. I also wanted the objects I created to go straight to the mouse, but it the object would always go in zig zag fashion. In order to fix this, the code was converted to java script. It used function preload() along with loadsound() and loadimage() to load the files into the program. Then, I found out how to use keyPressed() to emit images and sound in an efficient way. To make the objects move in a straight line, I used trigonometry to create a line that went along either the cos or the sin of the angle. This would create a straight line from the orgin to the mouse. 
  </p>
  </details>
