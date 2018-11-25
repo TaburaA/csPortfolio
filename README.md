@@ -62,7 +62,7 @@ This college presentation project was very eye-opening. I was able to actually t
 </p>
  </details>
  <details>
- <summary>ChemoTaxis Lab!</summary>
+ <summary>ChemoTaxis Lab!(JS)</summary>
    <p>
     
 <a href="https://taburaa.github.io/chemotaxis4/">Non-JS ChemoTravis(may not be working 100%!)<br></a>  
