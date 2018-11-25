@@ -109,11 +109,17 @@ For this lab we were to focus on inheritance and interfaces. My lab used trigino
   
  1. Individual Lab Reflections are under their respective dropdown menus.
  
- 
+ </p>
+ <p>
+	
   2. The thing I'm most proud of in my CS development is my ability to make my code my own. Throughout the labs and projects, we had checklists to fill, and deadlines to meet, yet I always went above and beyond to implement things that made it unique to me. Whether it would be to use PImages, sound bytes, or increased interactiveibility, I always enriched my education by going further than the call of duty. 
   
+  </p>
   
+  <p>
+	
  3. Here's an examle as a code snippet:
+ 
  </p>
  
    ```Java
@@ -147,12 +153,18 @@ For this lab we were to focus on inheritance and interfaces. My lab used trigino
   
  ```
  <p>
+	
  While this is an early example, I still made it my own. Instead of just having a You Win message, I learnt how to use Images in processing and put in an image of Dr. R. 
  
+ </p>
  
+ <p>
+	
  4. The most difficult piece of code would be the use of javascript to combine images, sound, and keyPressed() to make an interactive project!
  
- 
+ </p>
+ <p>
+	
  5. Here's the code:</p>
 ```java
  function preload() {
