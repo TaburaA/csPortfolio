@@ -16,25 +16,7 @@ I thought the webpage project was really cool. I've never used HTML before so to
     </details>
 </p>
 </details>
-<details>
- <summary>Lightning Lab!</summary>
- <h3>Links:</h3>
-  <p>
-  
-  <a href="https://taburaa.github.io/lightning2/">Aesthetic Lightning<br></a>
-  
-  <a href="https://github.com/TaburaA/lightning2">Repo URL<br></a>
- <details>
-    <summary>Lightning Reflection</summary>
- <h3>Links:</h3>
- <p>
-This lab reviewed math.random(). We created lightning by randomizing a line's path and endpoint. I made it my own by not only randomizing the shape, but also the colour of the lightning and background. I also implemented an interactive element by having a mouse click reset the program.
-</p>
-    </details>
 
-</p>
-
- </details>
  <details>
  <summary>Dice Lab!</summary>
  <h3>Links:</h3>
@@ -90,7 +72,7 @@ This is my favorite lab so far. I've always been a rap fan. I thought that Chemo
  <h3>Links:</h3>
     <p>
   
-  <a href="https://taburaa.github.io/starfield5/">ChemoTravis<br></a>
+  <a href="https://taburaa.github.io/starfield5/">Thanksgiving Starfield<br></a>
   
   <a href="https://github.com/TaburaA/starfield5">Repo URL<br></a>
  <details>
